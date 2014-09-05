@@ -8,6 +8,14 @@ body > .container, /* Footer */
   padding-right: 30px !important;
 }
 
+/* Profile */
+
+img.avatar {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+
 /* Repo Next layout */
 
 .repository-content {
